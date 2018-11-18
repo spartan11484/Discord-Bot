@@ -34,4 +34,4 @@ bot.on("message", async message =>{
     //insert code to allow bot to join the call
   }
 });
-bot.login('NTEzMTk0MDA5ODg4NTU1MDA4.DtIRKw.8F0qCooqxAm1TCGcvccmLwwGQqE')
+bot.login('TOKEN')
